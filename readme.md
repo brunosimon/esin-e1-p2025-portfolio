@@ -1,16 +1,8 @@
 # Mon portfolio
 
-## Un sous titre
+## Features
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam cupiditate repellat ipsa magni reiciendis officiis laborum eos quam asperiores minima, officia facilis at ratione deserunt cumque voluptates recusandae inventore quibusdam.
+- Super animation of death
+- Clickable background
 
-- Toto
-- Tata
-- Tutu
-
-|head 1|head 2|
-|---|---|
-|value 1|value 2|
-|value 1|value 2|
-|value 1|value 2|
-|value 1|value 2|
+![A dog](./images/1-large.jpg)
